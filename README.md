@@ -24,7 +24,7 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the repository** (or download the source code):
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/manshirupam/Librarymanagementsystem->
    ```
 
 2. **Prerequisites**:
